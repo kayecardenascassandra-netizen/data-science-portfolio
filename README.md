@@ -50,7 +50,7 @@ Led the development of the calorie prediction model for our BSIS capstone system
 
 ## 📬 Contact
 
-- 📧 Email: cassandra@email.com *(replace with yours)*
+- 📧 Email: cardenascassandrakaye@email.com 
 - 🌐 Portfolio: [yourusername.github.io](https://yourusername.github.io)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
