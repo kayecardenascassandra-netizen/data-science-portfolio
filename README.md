@@ -43,9 +43,9 @@ Led the development of the calorie prediction model for our BSIS capstone system
 
 ## 🎓 Certifications
 
-- IBM Data Science Professional Certificate (Ongoing)
-- [Add more when available]
-
+- IBM Data Science Professional Certificate – In Progress
+- Google Data Analytics– In Progress
+  
 ---
 
 ## 📬 Contact
