@@ -3,7 +3,7 @@ Portfolio projects of Cassandra Kaye A. Cardenas | Data Science &amp; Informatio
 
 # 💼 Cassandra Kaye A. Cardenas — Data Science Portfolio
 
-Welcome to my Data Science Portfolio! I’m a graduate of Bachelor of Science in Information System with a strong foundation in programming, databases, and machine learning. This portfolio showcases my skills in data analysis, Python, and end-to-end projects built during my learning journey.
+Welcome to my Data Science Portfolio! I’m a BS Information System graduate currently expanding my skills in data science. With academic experience in programming and data analysis, I’m now building real-world projects in Python, visualization, and beginner machine learning to deepen my understanding.
 
 ---
 
